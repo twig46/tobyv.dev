@@ -1,0 +1,3 @@
+[submodule "campmap"]
+	path = campmap
+	url = https://github.com/twig46/campmap
